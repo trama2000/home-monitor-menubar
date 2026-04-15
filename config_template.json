@@ -1,0 +1,26 @@
+{
+  "solarman": {
+    "email": "TU_EMAIL_SOLARMAN",
+    "password": "TU_PASSWORD_SOLARMAN",
+    "token": "TU_TOKEN_SOLARMAN_PRECONFIGURED",
+    "plant_id": "61756313"
+  },
+  "rotex": {
+    "username": "TU_EMAIL_DAIKIN",
+    "password": "TU_PASSWORD_DAIKIN",
+    "heating_circuit_id": 16443
+  },
+  "tesla": {
+    "access_token": "TU_ACCESS_TOKEN_TESLA",
+    "refresh_token": "TU_REFRESH_TOKEN_TESLA",
+    "client_id": "TU_CLIENT_ID",
+    "client_secret": "TU_CLIENT_SECRET",
+    "vin": "XP7YGCEK9SB626479",
+    "region": "EU"
+  },
+  "poll_intervals": {
+    "solarman": 60,
+    "rotex": 60,
+    "tesla": 300
+  }
+}
